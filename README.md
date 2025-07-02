@@ -14,7 +14,7 @@
 
 **Языки программирования:**
 
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white)
+
 
 **Инструменты разработки:**
 
