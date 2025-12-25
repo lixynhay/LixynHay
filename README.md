@@ -47,7 +47,7 @@ I’m a **developer and Linux enthusiast** who enjoys deep system-level work, au
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lixynhay&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lixynhay)
 ![GitHub Streak](https://streak-stats.demolab.com?user=lixynhay&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lixynhay&layout=compact&theme=dark)
 
