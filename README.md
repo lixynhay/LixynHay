@@ -1,4 +1,4 @@
-# Hi! I'm Dima 👋
+# Hi! I'm lixyn 👋
 
 I am a passionate engineer and system researcher, working with Linux, Android, electronics, and programming. I love dissecting systems down to the last detail, finding hidden bugs, and understanding how everything works—whether it's the Linux kernel, Android firmware, or an ESP32 board.
 
