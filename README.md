@@ -35,11 +35,11 @@ I am a passionate engineer and system researcher, working with Linux, Android, e
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lixynhay&show_icons=true&theme=radical)
+[![lixynhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=lixynhay)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lixynhay&layout=compact&theme=radical)
+[![lixynhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=lixynhay)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lixynhay&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lixynhay)](https://git.io/streak-stats)
 
 ---
 
