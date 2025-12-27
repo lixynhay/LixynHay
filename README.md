@@ -35,7 +35,7 @@ I am a passionate engineer and system researcher, working with Linux, Android, e
 
 ## 📈 GitHub Stats
 
-![Dima's GitHub stats](https://github-readme-stats.vercel.app/api?username=lixynhay&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lixynhay&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lixynhay&layout=compact&theme=radical)
 
