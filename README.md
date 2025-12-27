@@ -1,54 +1,62 @@
-# 👋 Hi, I'm LixynHay
+# Hi! I'm Dima 👋
 
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-I’m a **developer and Linux enthusiast** who enjoys deep system-level work, automation, and full control over the environment.
+I am a passionate engineer and system researcher, working with Linux, Android, electronics, and programming. I love dissecting systems down to the last detail, finding hidden bugs, and understanding how everything works—whether it's the Linux kernel, Android firmware, or an ESP32 board.
 
 ---
 
-## 🧠 About Me
+## 🔧 Skills
 
-- 🐧 2+ years of hands-on experience with **Linux**
-- ⚙️ Interested in **low-level systems** and deep customization
-- 🤖 Writing scripts and tools for **automation**
-- 🔍 Prefer understanding *how things work under the hood*
-
----
-
-## 🛠 Tech Stack
-
-- **Operating Systems**: Arch Linux, Debian
-- **Languages / Tools**:
-  - Bash
-  - GNU Make
-  - GCC
-- **Focus Areas**:
-  - Automation
-  - System programming
-  - Linux environment optimization
+- **System Programming:** C, C++, Linux kernel, drivers, kernel configuration and compilation  
+- **Scripting & Automation:** Lua, MoonLoader, Arduino, ESP32, hardware integration, soldering  
+- **Analysis & Debugging:** Android firmware analysis, log reading, GitHub workflow, debugging  
+- **Hardware Skills:** soldering complex boards, disassembling and assembling devices, working with ESP32/microcontrollers  
 
 ---
 
-## 🔌 Embedded / ESP32
+## 📊 Skill Levels
 
-![ESP32](https://img.shields.io/badge/ESP32-323232?style=for-the-badge&logo=espressif&logoColor=white)
-
-- Working with **ESP32** microcontrollers
-- Experiments with:
-  - TFT displays
-  - Sensors and peripherals
-  - Low-level configuration and debugging
-- Interested in **embedded development combined with Linux tooling**
-
----
-
-## 📊 GitHub Stats
-
-[![Anurag's GitHub stats](https://github-stats-psiyavushs-projects.vercel.app/api?username=lixynhay)](https://github.com/psiyavush/github-stats)
+| Skill Area                   | Level |
+|-------------------------------|-------|
+| Linux Kernel & Drivers        | ██████████ 100% |
+| ESP32 / Arduino               | █████████ 90% |
+| Lua / MoonLoader              | ████████ 80% |
+| C / C++ Programming           | █████████ 90% |
+| Android Firmware Analysis     | ███████ 70% |
+| Debugging & Log Analysis      | █████████ 95% |
+| Hardware & Soldering          | ███████ 75% |
 
 ---
 
-⭐️ Feel free to explore the repositories and leave a star if something is useful.
+## 📂 Projects
+
+*(Portfolio projects will be added soon)*
+
+---
+
+## 📈 GitHub Stats
+
+![Dima's GitHub stats](https://github-readme-stats.vercel.app/api?username=lixynhay&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lixynhay&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lixynhay&theme=radical)
+
+---
+
+## ⚡ My Approach
+
+- I like to **explore and dissect systems independently**, without relying on guides or tutorials  
+- I aim for **deep understanding**, not surface-level knowledge  
+- When working on a problem, I look for the **root cause**, not just symptoms  
+
+---
+
+## 📫 Contact
+
+- Telegram: [https://t.me/lixynhay]
+
+---
+
+> “Quietly dangerous” — quietly dangerous for complex systems, modest for people 😉
+
+---
